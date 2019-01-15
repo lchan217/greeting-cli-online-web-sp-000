@@ -1,4 +1,4 @@
 def greeting(name)
- name=gets.chomp
+ name=get.chomp
  puts "Hello #{name}. It's nice to meet you."
 end
