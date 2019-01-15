@@ -1,3 +1,3 @@
-def greeting(name = gets.strip)
+def greeting(name = gets.chomp)
  puts "Hello #{name}. It's nice to meet you."
 end
